@@ -1,3 +1,12 @@
+#My customizations to purcell's emacs configuration
+- Add Keychord mode
+- Resize buffer using arrow keys
+- Use sanityinc tomorrow theme
+- Add smart beginning of line support
+
+---------------------------------------------
+
+
 # A reasonable Emacs config
 
 This is my emacs configuration tree, continually used and tweaked
