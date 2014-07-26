@@ -3,6 +3,7 @@
 - Resize buffer using arrow keys
 - Use sanityinc tomorrow theme
 - Add smart beginning of line support
+- Use Shift + Arrow keys to move between split windows
 
 ---------------------------------------------
 
