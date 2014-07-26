@@ -131,6 +131,8 @@
 ;;----------------------------------------------------------------------------
 (require 'init-locales)
 
+(require 'init-my-custom-config)
+
 (add-hook 'after-init-hook
           (lambda ()
             (message "init completed in %.2fms"
